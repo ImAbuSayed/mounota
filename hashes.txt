@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mounota
+
+This log tracks the cryptographic history and versioning for the song **Mounota** (mounota).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:59:30.151653 | `v1` | `23bf994cbca1c462bfb5d771d982806f5006013191b6d3c5d290bfaeb0ed35fa` | `418102d00d47255eca80e7a2690b831b04721f4a9cbf911bcb1803ddcd55e2b4` | `2026-05-08_mounota-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
